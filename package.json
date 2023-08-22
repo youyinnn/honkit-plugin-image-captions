@@ -1,26 +1,26 @@
 {
-  "name": "gitbook-plugin-image-captions",
-  "description": "Image captions plugin for GitBook",
+  "name": "honkit-plugin-image-captions",
+  "description": "Image captions plugin for Honkit",
   "main": "src/index.js",
-  "version": "3.1.0",
-  "author": "Tomas Dvorak <todvora@gmail.com>",
+  "version": "3.1.1",
+  "author": "YY <youyinnn@gmail.com>",
   "keywords": [
-    "gitbook",
-    "gitbook-plugin",
+    "honkit",
+    "honkit-plugin",
     "image",
     "caption"
   ],
   "engines": {
-    "gitbook": "^3"
+    "gitbook": ">=3.0.0"
   },
-  "homepage": "https://github.com/todvora/gitbook-plugin-image-captions",
+  "homepage": "https://github.com/youyinnn/honkit-plugin-image-captions",
   "repository": {
     "type": "git",
-    "url": "https://github.com/todvora/gitbook-plugin-image-captions.git"
+    "url": "https://github.com/youyinnn/honkit-plugin-image-captions.git"
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/todvora/gitbook-plugin-image-captions/issues"
+    "url": "https://github.com/youyinnn/honkit-plugin-image-captions/issues"
   },
   "dependencies": {
     "cheerio": "^0.22.0",
